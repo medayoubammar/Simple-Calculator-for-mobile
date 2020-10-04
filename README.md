@@ -2,6 +2,13 @@
 
 calculator made by me
 
+#to install the app
+
+-download this repo 
+-complete the missing packages directories (.dart_tool , .idea ,build) by installing flutter 
+- build\app\outputs\apk\release\app-release.apk (15.1MB) APK Version
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
