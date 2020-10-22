@@ -1,4 +1,5 @@
 # caluclator
+![](demo.gif)
 
 calculator made by me
 
